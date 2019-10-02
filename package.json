@@ -1,0 +1,23 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "Introduction to node.js",
+  "main": "wilders.js",
+  "scripts": {
+    "start": "node wilders.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mliraudcoel/wilders.git"
+  },
+  "author": "Mélanie Liraud-Coël",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mliraudcoel/wilders/issues"
+  },
+  "homepage": "https://github.com/mliraudcoel/wilders#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
